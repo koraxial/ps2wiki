@@ -45,8 +45,8 @@ copyright: "(c) {currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to The PS2 Homebrew Wiki! Whether you're a beginner or a seasoned modder, our tutorials have you covered with easy-to-follow guides on everything PS2! 
 
-baseurl: "/ps2wiki" # the subpath of your site, e.g. /blogkrx
-url: "https://koraxial.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "ps2wiki" # the subpath of your site, e.g. /blogkrx
+url: "https://koraxial.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/favicons/favicon.ico" # the favicon for your site
 
 # Yat date format
